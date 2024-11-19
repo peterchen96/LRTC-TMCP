@@ -2,6 +2,8 @@
 
 [![MIT License](https://img.shields.io/badge/license-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
+> Note that this project has been archived. Please refer to [LRTC_DeepPnP](https://github.com/peterchen96/LRTC_DeepPnP), including our latest work on missing traffic data completion.
+
 > This is the code repository for paper `Spatiotemporal traffic data completion with truncated minimax-concave penalty` which is published on Transportation Research Part C: Emerging Technologies.
 
 ## Usage
